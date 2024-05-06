@@ -26,10 +26,6 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-
-DEVELOPED BY:M.Ashwath
-REG.NO:212223230023
-
 PROGRAM
 PING COMMAND
 
